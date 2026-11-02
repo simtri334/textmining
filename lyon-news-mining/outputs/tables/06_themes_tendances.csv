@@ -1,0 +1,15 @@
+cluster,thème,part moyenne (%),pente (pt/semaine),ρ de Spearman,p,tendance,pic (semaine),z max
+3,Mobilisation lycéenne et manifestations,8.4,1.15,0.71,0.006,en hausse,28 Sep,10.3
+10,Politique municipale et élections,7.6,0.83,0.83,0.0,en hausse,14 Sep,3.9
+8,Finances publiques et projets métropolitains,5.6,0.2,0.54,0.058,stable / irrégulier,07 Sep,3.3
+7,"Sécheresse, climat et agriculture",2.8,-0.03,-0.27,0.364,stable / irrégulier,19 Oct,3.1
+9,"Culture, festivals, rentrée (groupe fourre-tout)",20.7,-0.27,-0.12,0.694,stable / irrégulier,31 Aug,2.5
+0,Travaux et circulation,1.5,-0.05,-0.27,0.364,stable / irrégulier,26 Oct,2.2
+2,"Violences, interpellations et justice pénale",4.0,-0.26,-0.46,0.117,stable / irrégulier,26 Oct,2.1
+4,Vigilance météo et alertes régionales,4.2,-0.33,-0.65,0.017,en baisse,19 Oct,2.0
+6,Incendies de grande ampleur,2.2,-0.12,-0.55,0.049,stable / irrégulier,28 Sep,1.5
+5,"Vie locale, associations, entreprises, école",18.8,-0.1,-0.18,0.566,stable / irrégulier,07 Sep,1.4
+12,"Beaujolais, vigne et vendanges",2.0,-0.21,-0.74,0.004,en baisse,07 Sep,1.4
+1,"Accidents, incendies et faits divers du quotidien",17.9,-0.6,-0.8,0.001,en baisse,19 Oct,1.2
+13,Fusillades et trafic à Villeurbanne,2.7,-0.19,-0.35,0.239,stable / irrégulier,05 Oct,1.2
+11,Météo locale (prévisions),1.5,-0.04,-0.25,0.405,stable / irrégulier,21 Sep,1.1

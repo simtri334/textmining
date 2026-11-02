@@ -39,6 +39,24 @@ def extract_section(url: str, media: str):
     return None                                   # LyonMag : /article/<id>/<slug>, pas de rubrique
 
 
+def flag_low_coverage_days(df: pd.DataFrame, threshold: float = 0.5) -> pd.Series:
+    """Marque les articles d'un (média, jour) anormalement creux : moins de `threshold` × la médiane du MÊME jour
+    de la semaine sur ±3 semaines. Tenir compte du jour de la semaine évite de prendre un week-end pour une panne.
+    Seuls les médias à volume suffisant (> 5 articles/jour en médiane) sont évalués."""
+    daily = df.groupby(["media_name", "date"]).size().rename("n").reset_index()
+    flagged = set()
+    for media, g in daily.groupby("media_name"):
+        g = g.set_index("date")["n"].reindex(pd.date_range(df["date"].min(), df["date"].max()), fill_value=0)
+        if g.median() <= 5:
+            continue
+        for d in g.index:
+            peers = [g.get(d + pd.Timedelta(weeks=k)) for k in (-3, -2, -1, 1, 2, 3)]
+            peers = [x for x in peers if x is not None]
+            if len(peers) >= 3 and g[d] < threshold * pd.Series(peers).median():
+                flagged.add((media, d))
+    return pd.Series([(m, d) in flagged for m, d in zip(df["media_name"], df["date"])], index=df.index)
+
+
 def load_raw() -> pd.DataFrame:
     files = sorted(glob.glob(str(RAW / "*.csv.gz")))
     return pd.concat((pd.read_csv(f, dtype={"date": str}) for f in files), ignore_index=True)
@@ -87,12 +105,21 @@ def build() -> tuple[pd.DataFrame, dict]:
     # Périmètre d'analyse : médias basés à Lyon en entier ; Le Progrès (régional : Ain, Jura, Loire…) filtré sur la zone lyonnaise
     df["in_scope"] = df["media_name"].isin(LYON_BASED_MEDIA) | ((df["media_name"] == "Le Progrès") & df["is_lyon"])
 
+    # Type de contenu : l'agenda (fiches en gabarit) et le contenu sponsorisé ne sont pas de l'information éditoriale
+    df["content_type"] = "editorial"
+    df.loc[df["section"] == "pour-sortir", "content_type"] = "agenda"
+    df.loc[df["section"].isin(["paroles-de-partenaires", "comparateur-telecom"]), "content_type"] = "sponsored"
+
     df["dup_title"] = df.duplicated(["media_name", "title"], keep=False)   # signalé, jamais supprimé
     df["tone_avg"] = pd.to_numeric(df["tone"].str.split(",").str[0], errors="coerce")
 
+    corpus_flags = flag_low_coverage_days(df)
+    df["low_coverage_day"] = corpus_flags
+    df["in_analysis"] = df["in_scope"] & (df["content_type"] == "editorial")
+
     cols = ["article_id", "title", "title_clean", "url", "domain", "media_name", "seendate", "date", "date_source",
             "year", "month", "week", "week_start", "day_of_week", "language", "section", "place_prefix",
-            "is_lyon", "lyon_rule", "in_scope", "dup_title", "tone_avg", "sharing_image", "themes", "persons",
+            "is_lyon", "lyon_rule", "in_scope", "content_type", "in_analysis", "low_coverage_day", "dup_title", "tone_avg", "sharing_image", "themes", "persons",
             "organizations", "locations"]
     corpus = df[cols].rename(columns={"sharing_image": "socialimage"}).sort_values(["date", "media_name"]).reset_index(drop=True)
     return corpus, stats

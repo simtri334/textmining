@@ -1,0 +1,9 @@
+variante,termes émergents,Jaccard du top 20,Jaccard de l'ensemble détecté
+"référence (z ≥ 4, base 4 sem., médias pondérés)",87,1.0,1.0
+sans pondération par média (parts brutes),94,0.74,0.89
+base de 3 semaines,79,0.74,0.77
+base de 6 semaines,81,0.82,0.57
+seuil z ≥ 3,126,1.0,0.69
+seuil z ≥ 6,50,1.0,0.57
+au moins 1 média (pas de critère multi-médias),87,1.0,1.0
+sans les jours à couverture dégradée,86,0.82,0.97

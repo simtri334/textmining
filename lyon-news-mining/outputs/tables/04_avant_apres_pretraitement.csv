@@ -1,0 +1,4 @@
+,tokens,vocabulaire,mots vus 1 seule fois,tokens par titre,% du vocabulaire vu 1 fois
+1. tokens bruts,63812.0,9686.0,5097.0,12.9,53.0
+2. sans mots vides,34019.0,9440.0,5065.0,6.9,54.0
+3. lemmatisés,33049.0,7232.0,3563.0,6.7,49.0

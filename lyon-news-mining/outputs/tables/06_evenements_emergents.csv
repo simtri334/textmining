@@ -1,0 +1,88 @@
+semaine,terme,termes associés,titres au pic,part avant (%),part au pic (%),z,médias,trajectoire,événement (annotation manuelle),exemple de titre,confiance
+2026-10-19,couvre-feu,,21,0.13,5.1,24.4,3,indéterminé (fin de période),Émeutes du 17 oct. : couvre-feu en Presqu'île,Émeutes du 17 octobre à Lyon: un couvre-feu instauré en Presqu'île dès ce lundi 21 heures,normale
+2026-09-28,lycéen,,24,0.18,5.8,24.2,3,montée durable,"Mouvement lycéen : blocages, affrontements","A Ecully, des lycéens en direct avec la station orbitale : le compte à rebours est lancé",normale
+2026-10-26,raphaël arnault,"arnault, raphaël",17,0.13,4.3,20.5,3,indéterminé (fin de période),Affaire Quentin Deranque : audition de R. Arnault,L'ex-candidat RN Alexandre Dupalais appelle à l'interdiction d'une conférence de Raphaël Arnaul,normale
+2026-09-28,blocage,,14,0.12,3.5,17.4,3,pic ponctuel,Mouvement lycéen : blocages,Mouvements lycéens : quatre établissements visés par des tentatives de blocage,normale
+2026-10-19,interdiction,,18,0.19,4.4,17.3,3,indéterminé (fin de période),Émeutes du 17 oct. : couvre-feu / rassemblements interdits,La préfecture du Rhône renouvelle le couvre-feu et l'interdiction des rassemblements en Presqu',normale
+2026-10-19,acte,,18,0.21,4.5,16.9,3,indéterminé (fin de période),« Acte II » (24 oct.) après les émeutes,Violences et pillages à Lyon : à quoi s'attendre pour l'acte II du 24 octobre ?,normale
+2026-09-28,mobilisation,,18,0.2,4.3,16.7,3,montée durable,Mouvement lycéen : mobilisation,Incidents à répétition dans la ville nouvelle : « Nous allons continuer nos efforts et notre mo,normale
+2026-10-19,pillage,,23,0.33,5.6,16.4,3,indéterminé (fin de période),Émeutes du 17 oct. : pillages,"Pillages à Lyon : il passe devant un commissariat avec des sacs remplis d'objets volés, il est ",normale
+2026-10-26,trappe,attentat,13,0.13,3.3,15.9,3,indéterminé (fin de période),Attentat de Trappes et hommages,"Après l'attentat de Trappes, des rassemblements en hommage aux victimes organisés dans le dépar",normale
+2026-10-19,émeute,,15,0.19,3.8,14.9,2,indéterminé (fin de période),Émeutes du 17 oct.,Émeutes du 17 octobre : la Métropole de Lyon débloque 10 millions d'euros pour les commerçants ,normale
+2026-10-26,halloween,,12,0.13,3.1,14.4,3,indéterminé (fin de période),Halloween (agenda de sorties),"Chasse aux monstres, concours de déguisements, fête de la courge… Nos bons plans pour Halloween",normale
+2026-09-14,municipal,,19,0.4,4.7,12.3,3,montée durable,"Recours contre les municipales (Aulas, Vénissieux)","Municipales : le recours de Jean-Michel Aulas n'a pas convaincu, l'affaire mise en délibéré",normale
+2026-10-05,mouvement lycéen,mouvement,12,0.18,2.8,10.9,2,montée durable,Mouvement lycéen,Mouvement lycéen : 21 établissements fermés ce lundi dans le Rhône,normale
+2026-10-26,acte iii,iii,9,0.13,2.3,10.9,2,indéterminé (fin de période),« Acte III » Gilets jaunes (31 oct.),Un acte III annoncé par les Gilets jaunes à Lyon pour le 31 octobre,normale
+2026-10-19,commerçant,,19,0.49,4.7,10.8,3,indéterminé (fin de période),Émeutes du 17 oct. : aides aux commerçants,"Après les pillages et les saccages du 17 octobre, la mairie lance son plan d'urgence pour les c",normale
+2026-09-28,lycée,,40,1.9,9.6,10.2,3,pic ponctuel,Mouvement lycéen,"Tentatives de blocage dans quatre lycées de l'Est lyonnais, six interpellations",normale
+2026-09-28,tension,,9,0.13,2.1,10.1,3,pic ponctuel,Mouvement lycéen : tensions devant les lycées,"« On n'est pas là pour foutre la merde ! » : devant ce lycée de la Croix-Rousse, le blocus ratt",normale
+2026-10-05,mobilisation lycéenne,,11,0.29,3.4,10.0,2,pic ponctuel,Mouvement lycéen,"Mobilisation lycéenne à Lyon : après une semaine sous tension, deux rassemblements observés ce ",normale
+2026-10-05,manifestation,,17,0.56,4.8,9.9,3,montée durable,"Manifestations lycéennes (6 oct., Bellecour)",Blocage des lycées : l'accalmie… en attendant la manifestation de Bellecour,normale
+2026-10-19,presqu île,"île, presqu",23,0.78,5.6,9.7,3,indéterminé (fin de période),Émeutes du 17 oct. : Presqu'île,"Deux jours après les pillages, l'heure est au nettoyage pour les commerçants de la Presqu'île d",normale
+2026-09-07,échevin,vœu,8,0.13,2.1,9.5,3,pic ponctuel,Vœu des Échevins (8 sept.),Alain Mérieux va remettre l'écu lors du renouvellement du Vœu des Échevins,normale
+2026-10-26,député,"quentin, lfi raphaël, quentin deranque, deranque, député lfi",8,0.13,2.0,9.4,3,indéterminé (fin de période),Affaire Quentin Deranque : audition de R. Arnault,Mort de Quentin Deranque à Lyon : la famille de la victime demande l'audition du député LFI Rap,normale
+2026-10-19,warren,iris,8,0.12,1.9,9.3,3,indéterminé (fin de période),Procès Iris et Warren,"Mort d'Iris et Warren : à l'heure du procès, retour sur les lieux du drame corrigés et apaisés",normale
+2026-10-12,vacance,,8,0.14,2.2,9.2,3,pic ponctuel,Vacances de la Toussaint,"« Deux cambriolages en sept ans, ça fait beaucoup » : un couple se fait voler 804 pièces de col",faible (semaine à couverture dégradée)
+2026-10-12,coen,lumière,8,0.18,2.5,9.1,3,pic ponctuel,Festival Lumière : frères Coen,Festival Lumière : pourquoi la venue des frères Coen à Lyon ravive les tensions entre Ville et ,faible (semaine à couverture dégradée)
+2026-10-19,commerce,,16,0.47,3.9,9.1,3,indéterminé (fin de période),Émeutes du 17 oct. : commerces touchés,"Violences du 17 octobre : « Cinq commerces ont été touchés » à Villeurbanne, des voitures plein",normale
+2026-09-14,visiter,,8,0.12,1.9,8.9,2,pic ponctuel,Visite de la commission du CIO (JO 2030),« Nous sommes une organisation extrêmement démocratique »  : le grand maître du Grand Orient de,normale
+2026-09-14,élection,,8,0.14,1.9,8.7,3,montée durable,Recours contre des élections municipales,Vers une élection validée en justice à Givors ?,normale
+2026-10-26,equita,,7,0.13,1.8,8.3,2,indéterminé (fin de période),Salon équestre Equita Lyon,Equita Lyon 2026 : l'élite équestre mondiale a rendez-vous à Eurexpo,normale
+2026-09-14,art contemporain,"contemporain, art",7,0.12,1.7,8.0,2,pic ponctuel,Biennale d'art contemporain,Lyon : une nouvelle exposition d'art contemporain à découvrir dans le métro Part-Dieu,normale
+2026-09-07,chef,,7,0.13,1.8,7.9,2,pic ponctuel,,"Brigitte Ragot : « Le moral du chef d'entreprise est très important, on ne doit pas le tuer »",normale
+2026-09-28,établissement,,8,0.19,1.9,7.2,3,montée durable,Mouvement lycéen (partiel),Mouvements lycéens : quatre établissements visés par des tentatives de blocage,normale
+2026-09-14,alpes,,6,0.12,1.5,7.1,3,pic ponctuel,,"Isère : pour les Journées européennes du patrimoine, Grenoble Alpes Métropole dévoile ses équip",normale
+2026-10-19,procès,,8,0.19,1.9,7.1,3,indéterminé (fin de période),,"Une Caladoise agressée chez elle : le procès du suspect, déjà condamné pour atteinte sexuelle s",normale
+2026-08-31,classe,,6,0.13,1.6,7.0,2,pic ponctuel,,« On espère toujours une bonne surprise » : l'école du Centre à Sainte-Foy-lès-Lyon se prépare ,normale
+2026-09-28,affrontement,,6,0.12,1.5,6.9,3,pic ponctuel,,Blocage des lycées : des affrontements en cours avec la police à Décines et Villeurbanne,normale
+2026-08-31,rentrée,,27,1.82,7.3,6.9,3,pic ponctuel,,Seulement trois AESH au lieu de sept : les enseignants annoncent une grève le jour de la rentré,normale
+2026-08-31,enfant,,15,0.7,4.0,6.8,3,pic ponctuel,,"Qualité, efficacité, durée : pourquoi le sommeil est si important pour les enfants et ados",normale
+2026-09-21,pont,,6,0.12,1.4,6.8,3,pic ponctuel,,Rhône : les travaux du pont de Condrieu franchissent une nouvelle étape clé,normale
+2026-08-31,loto,patrimoine,6,0.13,1.6,6.8,2,pic ponctuel,,Rhône : cet édifice sélectionné au Loto du patrimoine,normale
+2026-10-19,manifestations interdites,,6,0.12,1.4,6.8,2,indéterminé (fin de période),,Acte II contre la vie chère : toutes les manifestations interdites samedi à Lyon,normale
+2026-09-28,tir,,9,0.26,2.2,6.7,3,pic ponctuel,,Vénissieux : une jeune femme de 18 ans grièvement blessée pas des tirs,normale
+2026-10-19,office,tourisme,9,0.28,2.2,6.7,3,indéterminé (fin de période),,Les images de l'Office de tourisme de Lyon en flammes font le tour de la presse internationale,normale
+2026-09-21,conseil municipal,conseil,6,0.12,1.4,6.6,3,montée durable,,"« Lyon n'est pas un sanctuaire » : en conseil municipal, l'enjeu de la sécurité des enfants dép",normale
+2026-09-28,run,,6,0.13,1.4,6.5,2,pic ponctuel,,Run In Lyon 2026 : tout ce qu'il faut savoir avant la course,normale
+2026-09-21,climat,,6,0.13,1.4,6.4,3,pic ponctuel,,"Une marche pour le climat, le vivant, la paix et la justice sociale organisée à Lyon le 26 sept",normale
+2026-10-12,piller,,6,0.14,1.6,6.2,3,montée durable,,"« Ils ont tout volé, vraiment tout » : des dizaines de magasins pillés lors de la manifestation",faible (semaine à couverture dégradée)
+2026-09-21,siège,,6,0.14,1.4,6.2,2,montée durable,,Sénatoriales dans la Drôme : six listes pour trois sièges le 27 septembre,normale
+2026-09-14,attaque,,6,0.16,1.5,6.1,3,montée durable,,Il projetait une attaque contre son ancien lycée : un adolescent proche de l'ultradroite mis en,normale
+2026-10-26,chère,vie chère,9,0.33,2.3,6.1,3,indéterminé (fin de période),,Acte III contre la vie chère à Lyon : plus de 1 000 forces de sécurité seront mobilisées le 31 ,normale
+2026-08-31,vénissieux,,10,0.45,2.7,5.8,3,montée durable,,Seulement trois AESH au lieu de sept : les enseignants annoncent une grève le jour de la rentré,normale
+2026-09-28,mortier,,7,0.2,1.7,5.8,2,pic ponctuel,,"Tir de mortiers, gaz lacrymogène, lycéenne blessée : que s'est-il passé à Villeurbanne ?",normale
+2026-10-26,hommage,,7,0.25,1.8,5.6,2,indéterminé (fin de période),,"Après l'attentat de Trappes, des rassemblements en hommage aux victimes organisés dans le dépar",normale
+2026-10-19,grégory doucet,"grégory, doucet",16,0.9,3.8,5.5,3,indéterminé (fin de période),,"17 octobre : pour le maire Grégory Doucet, « les responsables du maintien de l'ordre ont échoué",normale
+2026-10-12,gilets jaunes,jaune,6,0.14,1.4,5.4,2,montée durable,,"Colère des lycéens, retour des gilets jaunes... Une grande semaine de mobilisation annoncée à L",faible (semaine à couverture dégradée)
+2026-10-19,tour,,10,0.48,2.5,5.3,3,indéterminé (fin de période),,Les images de l'Office de tourisme de Lyon en flammes font le tour de la presse internationale,normale
+2026-10-12,manifestation lycéenne,,6,0.21,1.7,5.2,3,pic ponctuel,,Villeurbanne : une élue LFI porte plainte après avoir été blessée lors d'une manifestation lycé,faible (semaine à couverture dégradée)
+2026-09-07,aulas,,8,0.36,2.2,5.2,3,montée durable,,Crise à la Métropole : comment se séparer de Jean-Michel Aulas sans tout perdre ?,normale
+2026-09-07,prix,,6,0.21,1.6,5.2,3,montée durable,,Rhône : roué de coups dans un supermarché après un différend sur le prix des légumes,normale
+2026-08-31,libération,,6,0.23,1.6,5.0,3,pic ponctuel,,"Commémoration de la libération annulée à Oullins-Pierre-Bénite : ""scandaleux"" dénoncent le PS e",normale
+2026-08-31,élève,,7,0.29,1.9,5.0,2,montée durable,,« Je confirme l'ouverture de l'école Rose Dione » : les élèves seront accueillis au retour des ,normale
+2026-10-12,étudiant,,15,0.92,3.8,4.9,3,pic ponctuel,,"Face aux blocus, l'université Lyon 2 privilégie le dialogue avec les manifestants malgré la col",faible (semaine à couverture dégradée)
+2026-10-12,annoncer,,7,0.24,1.7,4.9,3,montée durable,,"Colère des lycéens, retour des gilets jaunes... Une grande semaine de mobilisation annoncée à L",faible (semaine à couverture dégradée)
+2026-09-07,bernard,,6,0.24,1.6,4.9,3,montée durable,,"Rhône : Bernard Rivalta, ancien président du Sytral, est décédé",normale
+2026-10-26,condamné,,14,0.9,3.5,4.9,3,indéterminé (fin de période),,Ils volent à Ambérieu-en-Bugey et sont interpellés à Lyon : quatre hommes condamnés,normale
+2026-10-12,voler,,7,0.4,2.2,4.9,3,pic ponctuel,,"« Deux cambriolages en sept ans, ça fait beaucoup » : un couple se fait voler 804 pièces de col",faible (semaine à couverture dégradée)
+2026-09-07,métropole,,17,1.36,4.6,4.8,3,montée durable,,"Crise à la Métropole : Aulas-Sarselli, la rentrée de tous les dangers",normale
+2026-08-31,fermeture,,7,0.31,1.9,4.8,3,montée durable,,"Fermeture de classes, ouverture d'une unité autisme… Ce qu'il faut retenir de la rentrée à Déci",normale
+2026-09-14,public,,7,0.29,1.7,4.8,3,montée durable,,Journées européennes du patrimoine : la préfecture de l'Ain ouvre ses portes au public,normale
+2026-08-31,rentrée scolaire,scolaire,7,0.3,1.9,4.8,2,pic ponctuel,,"Rentrée scolaire dans le Rhône : le SNUDI-FO dénonce ""des conditions inacceptables""",normale
+2026-10-05,interdire,,6,0.26,1.7,4.8,3,montée durable,,« On nous dit que nous ne sommes pas ayants droit » : on a interdit à cette famille d'installer,normale
+2026-10-19,sécurité,,10,0.53,2.4,4.7,3,indéterminé (fin de période),,Protect-Aura : ils assurent la sécurité de nuit dans les zones industrielles,normale
+2026-09-07,gerland,,11,0.7,2.9,4.5,3,pic ponctuel,,Son restaurant encore vandalisé en pleine nuit à Gerland : « C'est de pire en pire »,normale
+2026-10-19,préfet,,11,0.66,2.7,4.5,3,indéterminé (fin de période),,Lyon : LFI réclame la démission du préfet après les violences du 17 octobre,normale
+2026-09-28,rassemblement,,7,0.31,1.7,4.5,3,montée durable,,Lyon : un rassemblement prévu ce lundi à l'occasion de la Journée internationale du droit à l'I,normale
+2026-09-21,saison,,6,0.26,1.5,4.4,2,pic ponctuel,,"Rentrée culturelle : Théâtre de Vienne, la saison des adieux",normale
+2026-09-07,cœur,,6,0.28,1.6,4.4,3,montée durable,,Sylvie Blès-Gagnaire prend la tête du groupe Grand Cœur lyonnais à la Métropole,normale
+2026-08-31,père,,7,0.37,1.9,4.3,3,pic ponctuel,,"Rhône : un père accusé d'avoir tiré sur la maison de son fils, il nie les faits",normale
+2026-09-28,élu,,9,0.51,2.2,4.2,3,pic ponctuel,,"Élu sénateur, Sébastien Michel remet en jeu le siège de maire : qui prendra la suite ?",normale
+2026-10-05,festival lumière,,7,0.37,1.8,4.2,2,montée durable,,Festival Lumière : notre sélection de 7 rendez-vous immanquables,normale
+2026-10-19,centre-ville,,6,0.26,1.5,4.2,3,indéterminé (fin de période),,"« On était à la limite de l'insurrectionnel » : le centre-ville de Lyon pillé, la police débord",normale
+2026-10-05,tramway,,6,0.3,1.6,4.2,2,pic ponctuel,,"Lyon : une altercation éclate dans le tramway T2, une jeune homme roué de coups par deux indivi",normale
+2026-09-21,lancer,,8,0.45,2.0,4.1,3,montée durable,,Hôpital Edouard-Herriot : un appel à la grève au service post-urgences est lancé,normale
+2026-10-05,collision,,6,0.31,1.6,4.1,3,pic ponctuel,,« Une collision d'une extrême violence » : le maire réagit à l'accident de motos qui a coûté la,normale
+2026-09-07,maire,,8,0.48,2.1,4.1,3,montée durable,,Bagarre entre le maire de Givors et un chef d'entreprise : « Cette histoire m'afflige »,normale
+2026-10-12,action,,6,0.31,1.7,4.1,3,pic ponctuel,,"Des ""actions correctives"" mises en place après l'incident sur l'application Groupama Stadium lo",faible (semaine à couverture dégradée)
+2026-08-31,confluence,,7,0.4,1.9,4.1,3,pic ponctuel,,« Nous sommes totalement prêts » : le projet de baignade à Confluence tombera-t-il à l'eau ?,normale

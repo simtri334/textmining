@@ -1,0 +1,12 @@
+# Environnements virtuels (≈ 565 Mo, recréés avec requirements.txt)
+.venv/
+venv/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Fichiers temporaires et système
+*.tmp
+.DS_Store

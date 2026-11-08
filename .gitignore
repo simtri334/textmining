@@ -10,3 +10,6 @@ __pycache__/
 # Fichiers temporaires et système
 *.tmp
 .DS_Store
+
+# Base SQLite Bluesky locale
+/bluesky-news-mining/posts.db

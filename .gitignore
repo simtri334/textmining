@@ -13,3 +13,7 @@ __pycache__/
 
 # Base SQLite Bluesky locale
 /bluesky-news-mining/posts.db
+
+# Exports d'analyse Bluesky : textes, identifiants et caches locaux
+/bluesky-news-mining/data/
+/bluesky-news-mining/outputs/

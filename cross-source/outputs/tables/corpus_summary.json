@@ -1,0 +1,19 @@
+{
+  "bluesky_funnel": {
+    "collected": 23191,
+    "declared French": 23032,
+    "mention the Lyon area (source filter)": 19988,
+    "refined Lyon filter": 19400,
+    "without bots, aggregators, replies": 6254,
+    "final corpus": 5770
+  },
+  "bluesky_suspects_excluded": [
+    "alllocalteams.bsky.social",
+    "glosal-riot-korp.bsky.social",
+    "lyondemain.bsky.social",
+    "quodat.bsky.social",
+    "vazektomi.bsky.social"
+  ],
+  "press_docs": 4936,
+  "bluesky_docs": 5770
+}

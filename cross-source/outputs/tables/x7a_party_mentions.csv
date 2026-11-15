@@ -1,0 +1,13 @@
+category,source,per_1000,ci_low,ci_high,docs
+"Radical left (LFI, NPA)",press,9.72,7.29,12.56,48
+"Radical left (LFI, NPA)",bluesky,26.24,21.93,30.76,128
+"Left (PS, PCF, Place publique)",press,2.84,1.42,4.26,14
+"Left (PS, PCF, Place publique)",bluesky,3.49,2.05,5.13,17
+"Greens (EELV, Les Écologistes)",press,4.05,2.43,5.67,20
+"Greens (EELV, Les Écologistes)",bluesky,4.92,3.08,6.97,24
+Centre / government (Renaissance),press,4.46,2.63,6.28,22
+Centre / government (Renaissance),bluesky,20.91,16.81,24.6,102
+Right (LR),press,1.42,0.41,2.43,7
+Right (LR),bluesky,5.33,3.28,7.38,26
+"Far right (RN, Reconquête)",press,4.05,2.63,5.67,20
+"Far right (RN, Reconquête)",bluesky,12.92,10.05,16.2,63

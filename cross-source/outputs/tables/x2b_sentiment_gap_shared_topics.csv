@@ -1,0 +1,14 @@
+topic,label,neg_press,neg_bluesky,gap,ci_low,ci_high
+0,"Protests, high-school movement & curfew",0.584,0.613,0.029,-0.009,0.07
+2,Leisure & everyday life (catch-all),0.216,0.222,0.006,-0.027,0.043
+3,"Metropole, transport & regional news",0.558,0.483,-0.075,-0.124,-0.024
+4,Local culture & everyday life (catch-all),0.329,0.31,-0.019,-0.075,0.038
+6,"Festivals, concerts & museums",0.113,0.079,-0.034,-0.071,0.001
+5,Municipal politics & elections,0.54,0.541,0.001,-0.061,0.07
+8,"Police, arrests & court cases",0.814,0.762,-0.053,-0.105,-0.006
+11,Weather forecasts & heat,0.307,0.422,0.115,0.036,0.201
+13,Housing & rents,0.493,0.435,-0.058,-0.165,0.043
+15,Health & hospitals,0.344,0.324,-0.02,-0.133,0.086
+16,Violence & abuse cases,0.777,0.766,-0.011,-0.106,0.072
+18,"Cycling, running & mobility",0.374,0.357,-0.016,-0.154,0.105
+21,Climate & environmental health,0.486,0.438,-0.047,-0.17,0.086

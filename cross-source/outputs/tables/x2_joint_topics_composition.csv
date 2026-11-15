@@ -1,0 +1,40 @@
+topic,label,docs,press,bluesky,share_press_%,share_bluesky_%,log2_ratio,category,neg_prob_press,neg_prob_bluesky,bluesky_median_likes,bluesky_mean_likes
+0,"Protests, high-school movement & curfew",1327,619,708,12.54,14.51,0.21,shared,0.5839999914169312,0.613,1.0,18.3
+2,Leisure & everyday life (catch-all),1170,374,796,7.58,16.32,1.11,shared,0.2160000056028366,0.222,1.0,5.9
+3,"Metropole, transport & regional news",771,386,385,7.82,7.89,0.01,shared,0.5580000281333923,0.483,1.0,5.7
+4,Local culture & everyday life (catch-all),752,529,223,10.72,4.57,-1.23,shared,0.32899999618530273,0.31,1.0,6.7
+1,Football & sport results,680,65,615,1.32,12.61,3.25,Bluesky-dominated,0.2809999883174896,0.25,0.0,1.3
+6,"Festivals, concerts & museums",501,177,324,3.59,6.64,0.89,shared,0.11299999803304672,0.079,0.5,4.6
+5,Municipal politics & elections,490,260,230,5.27,4.72,-0.16,shared,0.5400000214576721,0.541,1.0,14.6
+8,"Police, arrests & court cases",436,304,132,6.16,2.71,-1.18,shared,0.8140000104904175,0.762,1.5,21.0
+10,"Shops, bars & looting damage",317,248,69,5.02,1.41,-1.82,press-dominated,0.4050000011920929,0.379,1.0,5.8
+7,Fires & firefighters,303,246,57,4.98,1.17,-2.08,press-dominated,0.7910000085830688,0.764,1.0,10.0
+9,Accidents & deaths,276,227,49,4.6,1.0,-2.18,press-dominated,0.8560000061988831,0.863,0.0,4.9
+11,Weather forecasts & heat,259,158,101,3.2,2.07,-0.63,shared,0.3070000112056732,0.422,1.0,4.5
+12,"Farming, drought & wildfires",253,199,54,4.03,1.11,-1.86,press-dominated,0.5559999942779541,0.593,1.0,17.7
+13,Housing & rents,247,183,64,3.71,1.31,-1.49,shared,0.49300000071525574,0.435,1.0,4.3
+19,Drownings & family tragedies,166,140,26,2.84,0.53,-2.39,press-dominated,0.6919999718666077,0.533,1.5,4.5
+14,Deals & promotions,159,1,158,0.02,3.24,6.74,Bluesky-dominated,0.03400000184774399,0.035,0.0,0.3
+15,Health & hospitals,155,89,66,1.8,1.35,-0.41,shared,0.3440000116825104,0.324,0.0,1.5
+16,Violence & abuse cases,149,100,49,2.03,1.0,-1.0,shared,0.7770000100135803,0.766,1.0,10.9
+18,"Cycling, running & mobility",126,65,61,1.32,1.25,-0.07,shared,0.37400001287460327,0.357,2.0,13.4
+22,Economy & jobs,119,86,33,1.74,0.68,-1.35,shared,0.26100000739097595,0.402,0.0,1.4
+17,Street photography,115,14,101,0.28,2.07,2.82,Bluesky-dominated,0.18000000715255737,0.145,37.0,31.8
+21,Climate & environmental health,110,53,57,1.07,1.17,0.12,shared,0.4860000014305115,0.438,1.0,5.9
+20,Trafficking & looting trials,98,85,13,1.72,0.27,-2.65,press-dominated,0.7049999833106995,0.463,1.0,1.9
+24,"Water, lakes & rivers",94,56,38,1.13,0.78,-0.54,shared,0.43799999356269836,0.406,0.0,2.7
+23,Trending-topic bots & esports,74,1,73,0.02,1.5,5.63,Bluesky-dominated,0.035999998450279236,0.353,0.0,0.3
+25,Mountains & 2030 Winter Games,67,42,25,0.85,0.51,-0.72,shared,0.3160000145435333,0.368,0.0,3.1
+27,E-scooters,65,49,16,0.99,0.33,-1.57,shared,0.35499998927116394,0.534,1.0,2.0
+26,Public transport (TCL) & strikes,55,29,26,0.59,0.53,-0.14,shared,0.49900001287460327,0.361,1.0,2.8
+30,Palestine flag (Vénissieux),54,23,31,0.47,0.64,0.44,shared,0.5929999947547913,0.591,2.0,18.3
+35,Science & public events,54,6,48,0.12,0.98,2.92,Bluesky-dominated,0.2630000114440918,0.041,0.5,3.9
+33,Bookshops & Decitre sale,51,17,34,0.34,0.7,1.0,shared,0.3889999985694885,0.176,1.0,3.1
+29,Boxing & fitness,40,1,39,0.02,0.8,4.74,Bluesky-dominated,0.0729999989271164,0.096,27.0,29.3
+28,Diseases (Shamonda virus),39,13,26,0.26,0.53,0.99,shared,0.7459999918937683,0.659,0.0,5.5
+31,Games & leisure venues,35,2,33,0.04,0.68,3.76,Bluesky-dominated,0.017999999225139618,0.063,5.0,6.4
+32,"Drones, surveillance & prisons",33,18,15,0.36,0.31,-0.24,shared,0.5400000214576721,0.463,1.0,24.1
+37,TV news & media commentary,30,2,28,0.04,0.57,3.53,Bluesky-dominated,0.8930000066757202,0.706,2.0,28.6
+34,Medical research,26,20,6,0.41,0.12,-1.64,press-dominated,0.3959999978542328,0.279,0.0,0.0
+36,Esports competitions,24,0,24,0.0,0.49,5.63,Bluesky-dominated,,0.033,0.0,0.2
+38,LGBT topics & homophobic attack,24,6,18,0.12,0.37,1.53,shared,0.7929999828338623,0.441,0.0,7.6

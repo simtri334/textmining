@@ -1,0 +1,139 @@
+{
+  "bluesky_top10_author_share": 0.211,
+  "bluesky_single_post_authors_share": 0.631,
+  "sentiment_tone_spearman_press": 0.595,
+  "negativity_chi2_p": 1.622218917262108e-55,
+  "topic_category_docs": {
+    "bluesky": {
+      "Bluesky-dominated": 1119,
+      "press-dominated": 274,
+      "shared": 3458
+    },
+    "press": {
+      "Bluesky-dominated": 92,
+      "press-dominated": 1165,
+      "shared": 3636
+    }
+  },
+  "topic_category_counts": {
+    "shared": 23,
+    "Bluesky-dominated": 9,
+    "press-dominated": 7
+  },
+  "topic_js_divergence": 0.165,
+  "topic_js_divergence_null_p95": 0.0038,
+  "echo_press_%_tau80": 5.5,
+  "echo_press_%_tau70": 17.2,
+  "echo_bluesky_%_tau80": 5.1,
+  "echo_bluesky_%_tau70": 17.8,
+  "bluesky_relay_%_sim90": 1.2,
+  "echo_rate_by_press_sentiment_%": {
+    "negative": 6.4,
+    "neutral": 5.7,
+    "positive": 3.7
+  },
+  "daily_volume_corr": 0.316,
+  "emergence_terms": {
+    "press": 122,
+    "bluesky": 261,
+    "shared_same_episode": 34
+  },
+  "emergence_shared_peak_lag": {
+    "median": 0.0,
+    "mean": -0.09,
+    "bluesky_first": 13,
+    "same_day": 13,
+    "press_first": 8
+  },
+  "emergence_shared_onset_sign_test_p": 0.10775214433670044,
+  "emergence_shared_onset_lag": {
+    "bluesky_first": 17,
+    "same_day": 9,
+    "press_first": 8
+  },
+  "contention_subset_docs": {
+    "press": 971,
+    "bluesky": 895
+  },
+  "frame_share_among_framed_docs_%": {
+    "bluesky": {
+      "Order & security": 19.3,
+      "Far-right threat": 50.5,
+      "Police repression": 28.9,
+      "Social grievance": 11.1,
+      "Radical-left threat": 5.6
+    },
+    "press": {
+      "Order & security": 42.7,
+      "Far-right threat": 15.9,
+      "Police repression": 7.3,
+      "Social grievance": 31.7,
+      "Radical-left threat": 4.9
+    }
+  },
+  "framed_docs": {
+    "bluesky": 305,
+    "press": 82
+  },
+  "frames_by_outlet_per_1000": {
+    "BFM Lyon": {
+      "Order & security": 80.0,
+      "Far-right threat": 120.0,
+      "Police repression": 0.0,
+      "Social grievance": 80.0,
+      "Radical-left threat": 0.0
+    },
+    "Le Progr\u00e8s": {
+      "Order & security": 33.3,
+      "Far-right threat": 7.7,
+      "Police repression": 5.1,
+      "Social grievance": 15.4,
+      "Radical-left threat": 2.6
+    },
+    "Lyon Capitale": {
+      "Order & security": 29.1,
+      "Far-right threat": 16.2,
+      "Police repression": 6.5,
+      "Social grievance": 48.5,
+      "Radical-left threat": 3.2
+    },
+    "LyonMag": {
+      "Order & security": 44.5,
+      "Far-right threat": 8.1,
+      "Police repression": 8.1,
+      "Social grievance": 12.1,
+      "Radical-left threat": 8.1
+    }
+  },
+  "bluesky_lyon_posts_window": 16188,
+  "bluesky_posts_with_link_%": 68.9,
+  "posts_linking_studied_outlets": 2355,
+  "accounts_linking_studied_outlets": 84,
+  "top_relayers_share_%": 94.0,
+  "exact_url_matches": 1459,
+  "exact_url_match_articles": 1407,
+  "sharing_delay_hours": {
+    "median": -1.0,
+    "q25": -1.7,
+    "q75": 0.0,
+    "share_before_gdelt_detection_%": 74.0
+  },
+  "shared_articles_by_outlet": {
+    "BFM Lyon": 0,
+    "Le Progr\u00e8s": 588,
+    "Lyon Capitale": 577,
+    "LyonMag": 242
+  },
+  "press_articles_shared_negative_%": 59.3,
+  "press_articles_all_negative_%": 55.4,
+  "shared_articles_top_topics": {
+    "Protests, high-school movement & curfew": 230,
+    "Metropole, transport & regional news": 136,
+    "Leisure & everyday life (catch-all)": 120,
+    "Police, arrests & court cases": 104,
+    "Local culture & everyday life (catch-all)": 102,
+    "Fires & firefighters": 87,
+    "Accidents & deaths": 74,
+    "Weather forecasts & heat": 66
+  }
+}

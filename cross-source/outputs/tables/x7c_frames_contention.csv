@@ -1,0 +1,11 @@
+category,source,per_1000,ci_low,ci_high,docs
+Order & security,press,36.05,24.72,47.37,35
+Order & security,bluesky,65.92,49.16,82.71,59
+Far-right threat,press,13.39,6.18,21.63,13
+Far-right threat,bluesky,172.07,146.37,194.41,154
+Police repression,press,6.18,2.06,11.33,6
+Police repression,bluesky,98.32,79.33,118.44,88
+Social grievance,press,26.78,16.48,37.08,26
+Social grievance,bluesky,37.99,25.7,51.4,34
+Radical-left threat,press,4.12,1.03,8.24,4
+Radical-left threat,bluesky,18.99,11.17,29.05,17

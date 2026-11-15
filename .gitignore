@@ -17,3 +17,13 @@ __pycache__/
 # Exports d'analyse Bluesky : textes, identifiants et caches locaux
 /bluesky-news-mining/data/
 /bluesky-news-mining/outputs/
+
+# Analyse croisée : posts bruts, embeddings et caches locaux
+/cross-source/data/
+/cross-source/outputs/tables/_run.log
+# Compilation LaTeX
+/report/*.aux
+/report/*.log
+/report/*.out
+/report/*.bbl
+/report/*.blg

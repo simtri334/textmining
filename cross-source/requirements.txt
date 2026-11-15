@@ -1,0 +1,16 @@
+requests
+pandas
+pyarrow
+numpy
+scipy
+scikit-learn
+nltk
+matplotlib
+torch
+sentence-transformers
+bertopic
+umap-learn
+hdbscan
+transformers
+sentencepiece
+protobuf
